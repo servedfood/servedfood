@@ -1,0 +1,7 @@
+input.text, input.search, textarea.textarea {
+border-top: 1px solid #7c7c7c !important;
+border-left: 1px solid #c3c3c3 !important;
+border-right: 1px solid #c3c3c3 !important;
+border-bottom: 1px solid #ddd !important;
+background: #000 url(/images/fieldbg.gif) repeat-x top !important;
+}
