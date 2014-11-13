@@ -1,3 +1,7 @@
+.wufoo {
+    background: #000;
+}
+
 input.text, input.search, textarea.textarea {
 border-top: 1px solid #7c7c7c !important;
 border-left: 1px solid #c3c3c3 !important;
